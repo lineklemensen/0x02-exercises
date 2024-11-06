@@ -6,6 +6,10 @@ Use a while-loop for calculating the sum.*/
 using namespace std;
 
 int main() {
+    //Positive integer storing the input from the user
+    int number;
+
+
     
     return 0;
 }
