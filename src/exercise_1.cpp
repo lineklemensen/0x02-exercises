@@ -9,7 +9,22 @@ int main() {
     //Positive integer storing the input from the user
     int number;
 
+    //Counter
+    int i = 0;
 
+    //Sum of integers
+    int sum = 0;
+
+    //Takes a number as inout from the user
+    cout << "Please input a positive number: ";
+    cin >> number;
+
+    while (i < number)
+    {
+        sum = sum + i;
+        cout << sum << endl;
+        i++;
+    }
     
     return 0;
 }
