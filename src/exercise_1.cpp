@@ -15,7 +15,7 @@ int main() {
     //Sum of integers
     int sum = 0;
 
-    //Takes a number as inout from the user
+    //Takes a number as input from the user
     cout << "Please input a positive number: ";
     cin >> number;
 
