@@ -7,6 +7,12 @@ h- and a cpp-file*/
 using namespace std;
 
 int main() {
-    
+    int number;
+    cout << "Please input a positive number: ";
+    cin >> number;
+
+    int sum = calculateSum(number);
+    cout << "Sum: " << sum << endl;
+
     return 0;
 }
