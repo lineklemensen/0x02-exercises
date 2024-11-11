@@ -10,4 +10,5 @@ int calculateSum(int number) {
         i++;
     }
     
+    return sum;
 }
