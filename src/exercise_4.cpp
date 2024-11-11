@@ -1,5 +1,8 @@
-/*Write a program that takes an integer as user-input and writes all even integers up and maybe including the
-given integer input. Use a while-loop for iterating the integers.*/
+/*Write a program that takes a positive integer as input and 
+writes a triangle of asterixis (*), where the height
+of triangle is the input number.
+Use a while-loop for iteration corresponding to each 
+row and a while loop for each row.*/
 #include <iostream>
 
 using namespace std;
