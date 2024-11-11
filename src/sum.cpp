@@ -4,7 +4,7 @@ int calculateSum(int number) {
     int sum = 0;
     int i = 0;
 
-    while (i < number)
+    while (i <= number)
     {
         sum = sum + i;
         i++;
