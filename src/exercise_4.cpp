@@ -8,8 +8,28 @@ row and a while loop for each row.*/
 using namespace std;
 
 
-
 int main() {
+    //Positive integer storing the input from the user
+    int height;
+
+    //Takes a number as input from the user
+    cout << "Please input a positive number for the height of the triangle: ";
+    cin >> height;
+
+    int row = 1;
+
+    while (row <= height)
+    {
+        int column = 1;
+
+        while (row >= column)
+        {
+            cout << "*";
+            column++;
+        }
+        cout << endl;
+        row ++;
+    }    
    
     return 0;
 }
