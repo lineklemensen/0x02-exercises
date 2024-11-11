@@ -19,7 +19,7 @@ int main() {
     cout << "Please input a positive number: ";
     cin >> number;
 
-    while (i < number)
+    while (i <= number)
     {
         sum = sum + i;
         cout << sum << endl;
