@@ -42,5 +42,11 @@ int main() {
         rolls.push_back(rollDie());
     }
 
+    // Calculate the mean of the die rolls
+    double mean = calculateMean(rolls);
+
+    // Print the mean
+    cout << "The mean of the die rolls is: " << mean << endl;
+
     return 0;
 }
