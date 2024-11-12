@@ -6,6 +6,7 @@ Make the mean calculation into a function*/
 #include <iostream>
 #include <vector>
 #include <random>
+#include <numeric>
 
 using namespace std;
 
