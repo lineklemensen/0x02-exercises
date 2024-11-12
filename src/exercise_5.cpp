@@ -10,7 +10,6 @@ Make the mean calculation into a function*/
 
 using namespace std;
 
-
 // Function to simulate a die roll
 int rollDie() {
     //Random number generator
