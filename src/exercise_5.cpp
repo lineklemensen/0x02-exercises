@@ -4,12 +4,12 @@ Now calculate the mean of die values and print it
 Make the mean calculation into a function*/
 
 #include <iostream>
+
 using namespace std;
 
 
-
 int main() {
-    
+    int throws;
 
     return 0;
 }
