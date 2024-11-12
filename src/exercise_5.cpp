@@ -10,9 +10,8 @@ Make the mean calculation into a function*/
 using namespace std;
 
 
-
 int main() {
-    
+    int throws;
 
     return 0;
 }
