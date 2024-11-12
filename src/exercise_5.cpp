@@ -4,6 +4,9 @@ Now calculate the mean of die values and print it
 Make the mean calculation into a function*/
 
 #include <iostream>
+#include <vector>
+#include <random>
+
 using namespace std;
 
 
