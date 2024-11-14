@@ -11,4 +11,4 @@ int calculateSum(int number) {
     }
     
     return sum;
-}
+} 
